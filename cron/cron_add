@@ -1,0 +1,2 @@
+*/5 * * * * /home/paul/.cron/wallpaper.sh
+*/5 * * * * /home/paul/.cron/batteryStatus.sh

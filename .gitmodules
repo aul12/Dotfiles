@@ -1,0 +1,3 @@
+[submodule "vim/Alduin"]
+	path = vim/Alduin
+	url = git@github.com:AlessandroYorba/Alduin.git

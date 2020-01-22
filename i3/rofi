@@ -1,6 +1,6 @@
-rofi.combi-modi:    window,drun,ssh
-rofi.theme:         solarized
-rofi.font:          hack 10
+rofi.combi-modi:    drun,ssh
+rofi.theme:         Pop-Dark
+rofi.font:          hack 14
 rofi.modi:          combi
 rofi.color-window: #222222, #222222, #b1b4b3
 rofi.color-normal: #222222, #b1b4b3, #222222, #005577, #b1b4b3

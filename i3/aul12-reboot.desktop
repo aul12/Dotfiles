@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Reboot
+GenericName=Reboot
+Comment=Reboot the system
+Exec=reboot
+Icon=/usr/share/pixmaps/xubuntu-logo.png
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=System

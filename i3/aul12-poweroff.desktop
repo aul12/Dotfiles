@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Power Off
+GenericName=Power Off
+Comment=Shutdown the system
+Exec=poweroff
+Icon=/usr/share/pixmaps/xubuntu-logo.png
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=System
